@@ -1,0 +1,5 @@
+c:\users\jaime\documents\visual studio 2010\Projects\ClinicaVeterinaria\BibliotecaVeterinaria\bin\Debug\BibliotecaVeterinaria.dll
+c:\users\jaime\documents\visual studio 2010\Projects\ClinicaVeterinaria\BibliotecaVeterinaria\bin\Debug\BibliotecaVeterinaria.pdb
+c:\users\jaime\documents\visual studio 2010\Projects\ClinicaVeterinaria\BibliotecaVeterinaria\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jaime\documents\visual studio 2010\Projects\ClinicaVeterinaria\BibliotecaVeterinaria\obj\Debug\BibliotecaVeterinaria.dll
+c:\users\jaime\documents\visual studio 2010\Projects\ClinicaVeterinaria\BibliotecaVeterinaria\obj\Debug\BibliotecaVeterinaria.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="Clinica Veterinaria"  description="Menu para clinica veterinaria">
+        <siteMapNode url="EditarDatosClinica.aspx"
+                     title="Editar Datos de la clinica" 
+                     description="Pagina usada para editar los datos de la clinica" />
+        <siteMapNode url="Inicio.aspx" 
+                     title="Mascotas"  
+                     description="Sub menu de mascotas" >
+          <siteMapNode url="IngresarMascota.aspx" 
+                       title="Ingresar Mascota"
+                       description="Pagina usada para ingresar a las mascotas"/>
+          <siteMapNode url="ModificarMascota.aspx"
+                       title="Modificar Mascota"
+                       description="Pagina usada para modificar a las mascotas"/>
+          <siteMapNode url="EliminarMascota.aspx"
+                       title="Eliminar mascota" 
+                       description="Pagina usada para eliminar a las mascotass"/>
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

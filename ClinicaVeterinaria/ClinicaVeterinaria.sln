@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaVeterinaria", "ClinicaVeterinaria\ClinicaVeterinaria.csproj", "{B07D2168-4E27-47F8-AFFB-8F99CB1242A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaVeterinaria", "BibliotecaVeterinaria\BibliotecaVeterinaria.csproj", "{728FF0E8-505F-4048-9FA0-90D70CE9D758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07D2168-4E27-47F8-AFFB-8F99CB1242A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07D2168-4E27-47F8-AFFB-8F99CB1242A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07D2168-4E27-47F8-AFFB-8F99CB1242A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07D2168-4E27-47F8-AFFB-8F99CB1242A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728FF0E8-505F-4048-9FA0-90D70CE9D758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728FF0E8-505F-4048-9FA0-90D70CE9D758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728FF0E8-505F-4048-9FA0-90D70CE9D758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728FF0E8-505F-4048-9FA0-90D70CE9D758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
